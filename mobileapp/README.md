@@ -16,9 +16,4 @@
 2. Иследовать результаты А/А/В-тестов на основе 3х групп тестирования. Как изменение шрифтов в приложении повлияет на поведение пользователей?
 
 ## Используемые библиотеки
-*pandas* 
-*numpy*
-*matplotlib.pyplot*
-*plotly*
-*scipy.stats*
-*math*
+*pandas*, *numpy*, *matplotlib.pyplot*, *plotly*, *scipy.stats*, *math*
