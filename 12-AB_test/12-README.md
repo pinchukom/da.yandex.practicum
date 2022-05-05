@@ -45,4 +45,5 @@
 
 ## Статус проекта
 Завершен
-{% include figure1.html %}
+
+{% include 12_figure1.html %}
